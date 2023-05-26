@@ -1,0 +1,1 @@
+/Users/gustavlannhard/Documents/Rust/Projects/minigrep/target/debug/minigrep: /Users/gustavlannhard/Documents/Rust/Projects/minigrep/src/lib.rs /Users/gustavlannhard/Documents/Rust/Projects/minigrep/src/main.rs

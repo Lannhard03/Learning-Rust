@@ -1,0 +1,12 @@
+Spell check for text in 6cyyy-2019.txt
+[0] civilingenjörsprogram: civilingenjörsprogrammet, civilingenjörerna, civilingenjörer, 
+[0] 300: y300, c30, i30, 
+[13] matematikgrund: matematikern, matematiktung, matematiken, 
+[16] masterprofiler: vinterprofiler, medieprofiler, kulturprofiler, 
+[19] ämnesmässig: ämnesmässigt, yrkesmässig, könsmässig, 
+[25] 11: p1, k1, f1, 
+[25] masterprofiler: vinterprofiler, medieprofiler, kulturprofiler, 
+[44] teoritung: teorin, hantering, kvotering, 
+[65] biofysiker: biofysikern, fysiker, fysiken, 
+[81] kvalitetsingenjör: kvalitetsindex, kvalitetsviner, kvalitetspengen, 
+[83] sensorfusion: transfusion, resolution, sensation, 

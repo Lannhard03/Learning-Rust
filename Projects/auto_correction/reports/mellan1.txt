@@ -1,0 +1,6 @@
+Spell check for text in mellan1.txt
+[5] bercow: beror, bero, serco, 
+[5] brexitförslag: textförslag, budgetförslag, prisförslag, 
+[10] 12: p1, k1, m2, 
+[28] brexitörerna: direktörerna, servitörerna, kreatörerna, 
+[37] brexitanhängarna: mursianhängarna, mursi-anhängarna, mursianhängarnas, 

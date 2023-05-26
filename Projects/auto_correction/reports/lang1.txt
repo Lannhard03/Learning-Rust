@@ -1,0 +1,11 @@
+Spell check for text in lang1.txt
+[15] säkerhetslag: säkerhetssal, säkerhetsbolag, säkerhetslarm, 
+[25] säkerhetslag: säkerhetssal, säkerhetsbolag, säkerhetslarm, 
+[25] 2017: k2a1, 20:e, g20, 
+[41] chefleden: chefsleden, chefsledet, chefen, 
+[48] heltäckning: betäckning, taltäckning, täckning, 
+[55] kinaforskare: klimatforskare, skolforskare, sömnforskare, 
+[57] helkinesiska: kinesiska, östkinesiska, sydkinesiska, 
+[84] avlyssnande: avlyssnade, avlyssnandet, avlyssnad, 
+[85] teknikprodukter: denimprodukter, mejeriprodukter, hygienprodukter, 
+[89] lysne: lyste, lynne, lyse, 

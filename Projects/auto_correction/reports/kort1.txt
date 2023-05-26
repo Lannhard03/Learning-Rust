@@ -1,0 +1,8 @@
+Spell check for text in kort1.txt
+[3] totalförstörelse: totalförstördes, totalförstörts, totalförstörde, 
+[6] gallet: fallet, galet, galler, 
+[8] huvudtornen: huvudorten, huvudformen, huvudtorget, 
+[10] klocktornen: klocktornet, klocktorn, klockren, 
+[12] 400: v40, s400, i40, 
+[16] 1100: s100, v110, x100, 
+[16] talskatedralen: paulskatedralen, pauls-katedralen, katedralen, 

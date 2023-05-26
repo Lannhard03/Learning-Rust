@@ -1,0 +1,1 @@
+rayon::iter::Map<rayon::iter::Filter<rayon::slice::Iter<'_, String>, [closure@src/spellchecker.rs:66:21: 66:24]>, [closure@src/spellchecker.rs:67:18: 67:21]>
